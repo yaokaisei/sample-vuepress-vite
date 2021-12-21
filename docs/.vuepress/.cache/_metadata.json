@@ -1,0 +1,31 @@
+{
+  "hash": "86d7aee3",
+  "browserHash": "660c8510",
+  "optimized": {
+    "vue": {
+      "file": "D:/works/_github/sample-vuepress-vite/docs/.vuepress/.cache/vue.js",
+      "src": "D:/works/_github/sample-vuepress-vite/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js",
+      "needsInterop": false
+    },
+    "vue-router": {
+      "file": "D:/works/_github/sample-vuepress-vite/docs/.vuepress/.cache/vue-router.js",
+      "src": "D:/works/_github/sample-vuepress-vite/node_modules/vue-router/dist/vue-router.esm-bundler.js",
+      "needsInterop": false
+    },
+    "@vuepress/shared": {
+      "file": "D:/works/_github/sample-vuepress-vite/docs/.vuepress/.cache/@vuepress_shared.js",
+      "src": "D:/works/_github/sample-vuepress-vite/node_modules/@vuepress/shared/lib/esm/index.js",
+      "needsInterop": false
+    },
+    "@vueuse/core": {
+      "file": "D:/works/_github/sample-vuepress-vite/docs/.vuepress/.cache/@vueuse_core.js",
+      "src": "D:/works/_github/sample-vuepress-vite/node_modules/@vueuse/core/index.esm.js",
+      "needsInterop": false
+    },
+    "nprogress": {
+      "file": "D:/works/_github/sample-vuepress-vite/docs/.vuepress/.cache/nprogress.js",
+      "src": "D:/works/_github/sample-vuepress-vite/node_modules/nprogress/nprogress.js",
+      "needsInterop": true
+    }
+  }
+}
